@@ -13,16 +13,14 @@ body{
     flex-wrap: wrap;
     align-items: flex-start; 
     justify-content:space-between; 
+    width:100%;
     margin:1em auto;
 }
 
 .images img {
-    flex: 0 0 46%;
-    margin-top:1em; 
-    margin-bottom:1em;
+    display:block;
     width:46%;
     height:auto;
-    max-width:80%; 
 }
 
 .container {
