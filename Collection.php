@@ -1,0 +1,3 @@
+<?php
+    include 'siteHead.php'
+?>

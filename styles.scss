@@ -1,0 +1,125 @@
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+    svg{
+        width:25px;
+        height:auto;
+        fill:blue;
+    }
+}
+
+
+/* Main Page Content */
+.primary-content {
+    width: 70%;
+
+    h1 {font-size: 3em;}
+    h2 {font-size: 2em;}
+    h3 {font-size: 1.5em;}
+    h4 {font-size: 1.25em;}
+
+    .images {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+    margin: 1em auto;
+
+        img {
+        display:block;
+        width: 46%;
+        height: auto;
+        }
+    }
+
+    .container {
+        width: 800px;
+        
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    section.section {
+        margin-bottom: 50px;
+    }
+
+    img {
+        display:block;
+        width: auto;
+        max-width: 80%;
+        height: auto;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+}

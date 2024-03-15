@@ -1,18 +1,6 @@
-<!-- working file -->
-<!DOCTYPE html>
-
-<html>
-
-<html lang="en">
-
-
-	<head>
-
-		<title>Hardage &amp; Hardage</title>	
-		
-		<link href="styles.css" rel="stylesheet" type="text/css"media="all" />
-
-	</head>
+<?php
+    include 'siteHead.php'
+?>
 
 	<body>	
 		
@@ -28,7 +16,10 @@
 					<div class="sidebar">
 				
 				<div class="box">
-					
+					<?php
+                        include 'navigationBar.php';
+                    ?>
+
 					</div> <!-- end side .sidebar -->
 
 					<div class="primary-content">
@@ -97,5 +88,3 @@
 		</div> <!-- end div.container -->
 	</body>
 </html>
-
-
