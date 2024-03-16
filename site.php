@@ -4,18 +4,6 @@
 
 	<body>	
 		
-		
-
-			<div class="container">
-				<div class="menu_icon_box">
-					<div class="line1"></div>
-					<div class="line2"></div>
-					<div class="line3"></div>
-				</div>
-				<div class="flex-container">
-					<div class="sidebar">
-				
-				<div class="box">
 					<?php
                         include 'navigationBar.php';
                     ?>

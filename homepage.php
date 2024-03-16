@@ -1,23 +1,17 @@
-<!DOCTYPE html>
-
-<html>
-
-<html lang="en">
-
-
-	<head>	<title>Hardage &amp; Hardage</title>	
-		
-		<link href="styles.css" rel="stylesheet" type="text/css"media="all" />
-
-	</head>
+<?php
+    include 'siteHead.php'
+?>
     <body>
+    <?php
+        include 'navigationBar.php';
+    ?>
         <h2>Homepage</h2>
         
             <section class="section">
                 <p> The content on your shop home page is editable from your theme editor. </p>
                 <p> You can edit, add, and remove each of the sections below. You can also add duplicates. </p>
                 <p class= "caption"> Don't forget to add alt. text to all images added in the theme editor </p> 
-            </section> <!-- end section.section -->
+            </section> 
 
             <section class="section">
                 <h3> Slideshow </h3>

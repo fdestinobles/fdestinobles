@@ -1,3 +1,14 @@
+<div class="container">
+    <div class="menu_icon_box">
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="line3"></div>
+    </div>
+    <div class="flex-container">
+        <div class="sidebar">	
+	<div class="box">
+					
+</div> <!-- end side .sidebar -->
 <nav>
     <li><a href="#">Sitewide</a></li>
     <li><a href="#">Homepage</a></li>
