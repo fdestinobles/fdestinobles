@@ -4,7 +4,6 @@
 
 <html lang="en">
 
-
 	<head>
 
 		<title>Hardage &amp; Hardage</title>	
@@ -13,3 +12,9 @@
 
 	</head>
 <div class="box">
+</div> <!-- end side .sidebar -->
+
+<div class="primary-content">
+    <header>
+        <h1>Laurel Denise</h1>
+    </header> <!-- end header -->

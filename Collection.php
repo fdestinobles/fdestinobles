@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
     include 'siteHead.php'
 ?> -->
 
@@ -6,11 +6,13 @@
     <?php
         include 'navigationBar.php';
     ?>
+    <h2> Collection </h2>
+
     <section class = "section">
-        <h2> Collection </h2>
      
         <h3> Collection Title and Description </h3>
         <p> The collection title and description are editable from the collection admin page. </p>
+        <!-- missing image and caption -->
     </section>
 
     <section class = "section">

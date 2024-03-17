@@ -10,6 +10,7 @@
             <section class="section">
                 <p> The content on your shop home page is editable from your theme editor. </p>
                 <p> You can edit, add, and remove each of the sections below. You can also add duplicates. </p>
+                <!-- missing image and caption -->
                 <p class= "caption"> Don't forget to add alt. text to all images added in the theme editor </p> 
             </section> 
 
@@ -24,6 +25,7 @@
                     <li> Link text (e.g. Available now) </li>
                     <li> Link </li>
                 </ul>
+                <!-- missing image and caption -->
             </section>
 
             <section>
@@ -36,6 +38,7 @@
                     <li> Background color (default: #FSS7A6) </li>
                     <li> Link color (dark or light) </li>
                 </ul>
+                <!-- missing image and caption -->
             </section>
 
             <section>
@@ -46,6 +49,7 @@
                     <li> Standard is the Callout Box on the left and the Collage on the right </li>
                     <li> Reverse is the Collage on the left and the Callout Box on the right </li>
                 </ul>
+                <!-- missing image and caption -->
             </section>
 
             <section>
@@ -72,6 +76,7 @@
                     <li> Product override image: 660px wide </li>
                     <p class= "caption"> The product image is optional. It will override the default image from the product listing.
                 </ul>
+                <!-- missing image and caption -->
             </section>
 
             <section>
