@@ -5,6 +5,7 @@
     <?php
         include 'navigationBar.php';
     ?>
+
         <h2>Homepage</h2>
         
             <section class="section">

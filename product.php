@@ -42,9 +42,8 @@
 
     <section class="section">
         <h3>Highlight Text</h3>
-        <p>The highlight text (e.g. with the most unique layout on the market...) is editable for <i>all</i> product from the theme editor &rarr; Main Product tab &rarr; Highlight field.</p>
-        <br>
-        <p>And you can override the highlight text for specific products from the product metafields &rarr; Highlight text field. </p>
+        <p>The highlight text (e.g. with the most unique layout on the market...) is editable for <i>all</i> product from the theme editor &rarr; Main Product tab &rarr; Highlight field. <br>
+        And you can override the highlight text for specific products from the product metafields &rarr; Highlight text field. </p>
         <!-- missing image and caption -->
     </section>
 
