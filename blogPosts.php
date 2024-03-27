@@ -16,6 +16,7 @@
                 <li>Button link (e.g. More About Us) below paragraph</li>
                 <p class="caption">A single backslash ("/") links back to the homepage.</p>
                 <!-- missing image and caption -->
+                <img src="" alt=""> 
             </ul>
         </p>
     <section>

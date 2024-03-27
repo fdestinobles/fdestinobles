@@ -10,6 +10,7 @@
     <h2>About Page</h2>
     <section class="section">
         <p>Make sure to select the about page template from your About page admin. </p>
+        <img src="" alt=""> 
         <!-- missing image and caption -->
         <p>From the theme editor &rarr; About page you can edit: </p>
 
@@ -18,6 +19,7 @@
     <h3>Introduction</h3>
     <section class="section">
         <p>In the About - Introduction tab, you can edit the portrait and about text: </p>
+        <img src="" alt=""> 
         <!-- missing image and caption -->
     </section>
 
@@ -52,6 +54,7 @@
     <h3>Reviews</h3>
     <section class="section">
         <p>In the About - Reviews section you can edit the &quot;Read More Reviews&quot; link as well as the individual reviews. </p>
+        <img src="" alt=""> 
         <!-- missing image and caption -->
     </section>
 
@@ -68,6 +71,7 @@
             <li>Description</li>
         </ul>
         </p>
+        <img src="" alt=""> 
         <!-- missing image and caption -->
     </section>
 </body>

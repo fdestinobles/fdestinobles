@@ -12,7 +12,7 @@
      
         <h3> Collection Title and Description </h3>
         <p> The collection title and description are editable from the collection admin page. </p>
-        <!-- missing image and caption -->
+        <img src="collectionImage1.jpg" alt="editing the collection title and description">
     </section>
 
     <section class = "section">
