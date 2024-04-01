@@ -16,7 +16,7 @@
     <section class="section">
         <h3>Cart Terms</h3>
         <p>You can also edit the text from the terms required for customers to proceed to checkout. </p>
-        <img src="" alt=""> 
+        <img src="cartimage1.jpg" alt="editing the back to shopping link and cart terms"> 
         <!-- missing image and caption -->
     </section>
 </body>

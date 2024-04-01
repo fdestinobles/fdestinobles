@@ -15,8 +15,7 @@
                 <li>Text (e.g. We make planners for the way you think...)</li>
                 <li>Button link (e.g. More About Us) below paragraph</li>
                 <p class="caption">A single backslash ("/") links back to the homepage.</p>
-                <!-- missing image and caption -->
-                <img src="" alt=""> 
+                <img src="blogpostImage.jpg" alt="editing the blog post sidebar"> 
             </ul>
         </p>
     <section>
