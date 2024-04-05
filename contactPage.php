@@ -1,14 +1,14 @@
-<!-- <?php
+<?php
     include 'siteHead.php'
 ?>
 
-	<body>	
+<body>	
 		
-    <?php
+<?php
         include 'navigationBar.php';
-    ?> -->
+?> 
 
-    <h3>Contact Page</h3> 
+    <h2>Contact Page</h2> 
 
     <section class="section">
         <p>Make sure to select the contact page template from your Contact Us page admin.  </p>
