@@ -50,8 +50,10 @@
     <section class="caption">
         <h3>Reviews</h3>
         <p>The product reviews carousel is editable from the theme editor via metafields. Each product can have a unique reviews carousel.</p>
-        <img src="productImage7.jpg" alt="editing product views"> 
-        <img src="productImage8.jpg" alt="accessing product reviews"> 
+        <div class="images">
+            <img src="productImage7.jpg" alt="editing product views"> 
+            <img src="productImage8.jpg" alt="accessing product reviews"> 
+        </div>
         <p class="caption">There are fields for up to 7 reviews per product in the carousel. </p>
     </section>
 </body>
