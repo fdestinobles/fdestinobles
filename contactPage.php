@@ -12,7 +12,7 @@
 
     <section class="section">
         <p>Make sure to select the contact page template from your Contact Us page admin.  </p>
-        <img src="contactpageImage1.jpg" alt="selecting the contact page template and editing the page title"> 
+        <img src="img/contactpageImage1.jpg" alt="selecting the contact page template and editing the page title"> 
     </section>
 
     <section class="section">
@@ -24,5 +24,5 @@
             <li>Email address</li>
             <li>Phone number</li>
         </ul>
-        <img src="contactpageimage2.jpg" alt="editing the contact page content">
+        <img src="img/contactpageimage2.jpg" alt="editing the contact page content">
     </section>

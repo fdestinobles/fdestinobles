@@ -1,18 +1,18 @@
-<?php
+<!-- <?php
     include 'siteHead.php'
 ?> -->
 
 <body>
-    <?php
+    <!-- <?php
         include 'navigationBar.php';
-    ?>
+    ?> --> -->
     <h2> Collection </h2>
 
     <section class = "section">
      
         <h3> Collection Title and Description </h3>
         <p> The collection title and description are editable from the collection admin page. </p>
-        <img src="collectionImage1.jpg" alt="editing the collection title and description">
+        <img src="img/collectionImage1.jpg" alt="editing the collection title and description">
     </section>
 
     <section class = "section">

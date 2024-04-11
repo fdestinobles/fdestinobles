@@ -11,7 +11,7 @@
             <section class="section">
                 <p> The content on your shop home page is editable from your theme editor. </p>
                 <p> You can edit, add, and remove each of the sections below. You can also add duplicates. </p>
-                <img src="homepageimage1.jpg" alt="Don't forget to add alt. text to all images added in the theme editor."> 
+                <img src="img/homepageimage1.jpg" alt="Don't forget to add alt. text to all images added in the theme editor."> 
                 <p class= "caption"> Don't forget to add alt. text to all images added in the theme editor </p> 
             </section> 
 
@@ -26,7 +26,7 @@
                     <li> Link text (e.g. Available now) </li>
                     <li> Link </li>
                 </ul>
-                <img src="homepageimage2.jpg" alt="editing the homepage slideshow"> 
+                <img src="img/homepageimage2.jpg" alt="editing the homepage slideshow"> 
             </section>
 
             <section>
@@ -39,7 +39,7 @@
                     <li> Background color (default: #FSS7A6) </li>
                     <li> Link color (dark or light) </li>
                 </ul>
-                <img src="homepageimage3.jpg" alt="editing a box in the 3 boxes section">
+                <img src="img/homepageimage3.jpg" alt="editing a box in the 3 boxes section">
             </section>
 
             <section>
@@ -50,7 +50,7 @@
                     <li> Standard is the Callout Box on the left and the Collage on the right </li>
                     <li> Reverse is the Collage on the left and the Callout Box on the right </li>
                 </ul>
-                <img src="homepageImage4.jpg" alt="editing the section layout"> 
+                <img src="img/homepageImage4.jpg" alt="editing the section layout"> 
             </section>
 
             <section>
@@ -77,7 +77,7 @@
                     <li> Product override image: 660px wide </li>
                     <p class= "caption"> The product image is optional. It will override the default image from the product listing.
                 </ul>
-                <img src="homepageImage5.jpg" alt="editing the callout box fields in the callout box &plus; college section"> 
+                <img src="img/homepageImage5.jpg" alt="editing the callout box fields in the callout box &plus; college section"> 
             </section>
 
             <section>

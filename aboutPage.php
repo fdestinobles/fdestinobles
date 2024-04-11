@@ -10,7 +10,7 @@
     <h2>About Page</h2>
     <section class="section">
         <p>Make sure to select the about page template from your About page admin. </p>
-        <img src="aboutpageImage1.jpg" alt="selecting the about page template"> 
+        <img src="img/aboutpageImage1.jpg" alt="selecting the about page template"> 
         <p>From the theme editor &rarr; About page you can edit: </p>
 
     </section>
@@ -18,7 +18,7 @@
     <h3>Introduction</h3>
     <section class="section">
         <p>In the About - Introduction tab, you can edit the portrait and about text: </p>
-        <img src="aboutpageImage2.jpg" alt="editing the about - introduction section"> 
+        <img src="img/aboutpageImage2.jpg" alt="editing the about - introduction section"> 
     </section>
 
     <h4>Portrait</h4>
@@ -53,8 +53,8 @@
     <section class="section">
         <p>In the About - Reviews section you can edit the &quot;Read More Reviews&quot; link as well as the individual reviews. </p>
         <div class="images">
-            <img src="aboutpageImage3.jpg" alt="editing the &quot;read more reviews&quot; link"> 
-            <img src="aboutpageImage4.jpg" alt="editing individual reviews"> 
+            <img src="img/aboutpageImage3.jpg" alt="editing the &quot;read more reviews&quot; link"> 
+            <img src="img/aboutpageImage4.jpg" alt="editing individual reviews"> 
         </div>
     </section>
 
@@ -72,8 +72,8 @@
         </ul>
         </p>
         <div class="images">
-            <img src="aboutpageImage5.jpg" alt="editing the section heading and planners link"> 
-            <img src="aboutpageimage6.jpg" alt="editing individual history items"> 
+            <img src="img/aboutpageImage5.jpg" alt="editing the section heading and planners link"> 
+            <img src="img/aboutpageimage6.jpg" alt="editing individual history items"> 
         </div>
     </section>
 </body>
